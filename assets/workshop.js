@@ -6,7 +6,7 @@ var reduce=window.matchMedia&&window.matchMedia("(prefers-reduced-motion: reduce
 
 /* ---------- CONFIG: edit these before launch ---------- */
 var CONFIG={
-  payLink:"",        // Razorpay payment page for the ₹99 seat, e.g. "https://rzp.io/l/gtme-workshop"
+  payLink:""https://topmate.io/shrinishkarsh/2374076/pay",        // Razorpay payment page for the ₹99 seat, e.g. "https://rzp.io/l/gtme-workshop"
   payLinkKit:"",     // Razorpay page for ₹598 (seat + Starter Kit). Leave empty to hide the add-on
   whatsapp:"",       // number with country code, digits only, e.g. "919876543210". Empty hides the button
   vsl:"",            // Loom or YouTube link. Empty hides the video block
